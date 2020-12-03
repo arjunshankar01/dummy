@@ -1,13 +1,10 @@
 {
+
     "name":"arjunshankar01/dummy",
     "version":"2.1.0",
     "type":"magento2-module",
-    "description":"Dummy module",    
-    "require":{
-        "magento/framework": ">=102.0.5",
-        "magento/module-checkout": ">=100.3.5",
-    },
+    "description":"Dummy module",
     "license":[
-        "MIT"
     ]
+
 }
