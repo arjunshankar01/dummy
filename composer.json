@@ -2,7 +2,7 @@
 
     "name":"arjunshankar01/dummy",
     "version":"2.1.0",
-    "type":"magento2-module",
+    "type":"dummy",
     "description":"Dummy module",
     "license":[
     ]
